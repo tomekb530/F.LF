@@ -52,4 +52,4 @@ Then simply open `game/game.html` in your favourite browser.
 
 ## Acknowledgement
 
-If you liked LF2, consider supporting the original author [Marti](https://www.patreon.com/martiwong) in remastering LF2.
+If you liked LF2, consider wishlisting/buying the remaster from original author [Marti](https://www.patreon.com/martiwong) [Steam](https://store.steampowered.com/app/3249650/Little_Fighter_2_Remastered)
